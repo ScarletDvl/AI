@@ -1,0 +1,8 @@
+# ignore data
+data/
+
+# ignore cache
+models/__pycache__
+
+# ignore saved model
+save
